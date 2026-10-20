@@ -1,0 +1,2 @@
+devteam:x:1001:alice
+opsadmin:x:1002:bob

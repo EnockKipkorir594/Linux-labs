@@ -1,0 +1,14 @@
+# Environment secrets and tokens
+.env
+*.pem
+*.key
+*.secret
+
+# OS & Editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Large temporary captures or socket logs
+*.log
+*.tmp
